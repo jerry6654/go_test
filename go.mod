@@ -1,3 +1,3 @@
-module jerry6654/go_test
+module github.com/jerry6654/go_test
 
 go 1.19
